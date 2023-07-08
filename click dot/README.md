@@ -32,6 +32,5 @@ Picture of end game(fail).
 </br>
 </br>
 
-https://github.com/danha12/pyagme-zero/assets/135415415/6cc3f94e-fb47-47f1-9e0b-67796a848b47
 # Author
 [danha12](https://github.com/danha12)
